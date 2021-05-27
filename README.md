@@ -1,2 +1,2 @@
 # Adv_Java-Internship
-Advance Java Internship with Brainy Beam Technologies
+Advance Java Internship at Brainy Beam Technologies
