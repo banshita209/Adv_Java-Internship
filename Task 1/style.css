@@ -1,0 +1,107 @@
+body {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+div {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+header {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+
+/*-------------------------header-----------------------------*/
+
+
+/*---------------navigation bar-------------------*/
+
+.nav {
+    background-color: #000033;
+    list-style-type: none;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav li:hover {
+    background-color: #8080ff;
+}
+
+
+/*--------------------body------------------------*/
+
+.body {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('bg.png');
+}
+
+
+/*--------------------admission_table-------------------*/
+
+.admission_table table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.admission_table th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+/*--------------------admission_table-------------------*/
+
+.contact_table table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.contact_table th,
+td {
+    padding: 7px;
+}
+
+.contact_table input {
+    border-radius: 25%;
+}
+
+
+/*--------------------About-------------------*/
+
+.about {
+    margin: 50px;
+    padding: 50px;
+}
+
+
+/*--------------------footer-------------------*/
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /*background: linear-gradient(to top left, #000033 11%, #33cc33 81%);*/
+    background-color: #000033;
+    color: white;
+    text-align: center;
+}
